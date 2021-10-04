@@ -1,6 +1,5 @@
 '''
 Returneaza true daca n este prim si false daca nu.
-test
 '''
 def is_prime(n):
   # codul vostru aici
